@@ -1,2 +1,2 @@
 # hello-world
-new in github
+This is a improvement to the previous text
